@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day 20\00FileBuffering\bin\Debug\net7.0\00FileBuffering.exe
+c:\C#\Bootcamp\vscode\Day 20\00FileBuffering\bin\Debug\net7.0\00FileBuffering.deps.json
+c:\C#\Bootcamp\vscode\Day 20\00FileBuffering\bin\Debug\net7.0\00FileBuffering.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day 20\00FileBuffering\bin\Debug\net7.0\00FileBuffering.dll
+c:\C#\Bootcamp\vscode\Day 20\00FileBuffering\bin\Debug\net7.0\00FileBuffering.pdb
+c:\C#\Bootcamp\vscode\Day 20\00FileBuffering\obj\Debug\net7.0\00FileBuffering.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day 20\00FileBuffering\obj\Debug\net7.0\00FileBuffering.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day 20\00FileBuffering\obj\Debug\net7.0\00FileBuffering.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day 20\00FileBuffering\obj\Debug\net7.0\00FileBuffering.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day 20\00FileBuffering\obj\Debug\net7.0\00FileBuffering.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day 20\00FileBuffering\obj\Debug\net7.0\00FileBuffering.dll
+c:\C#\Bootcamp\vscode\Day 20\00FileBuffering\obj\Debug\net7.0\refint\00FileBuffering.dll
+c:\C#\Bootcamp\vscode\Day 20\00FileBuffering\obj\Debug\net7.0\00FileBuffering.pdb
+c:\C#\Bootcamp\vscode\Day 20\00FileBuffering\obj\Debug\net7.0\00FileBuffering.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day 20\00FileBuffering\obj\Debug\net7.0\ref\00FileBuffering.dll

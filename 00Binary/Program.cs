@@ -3,7 +3,7 @@ using System.IO;
 
 class Program {
     static void Main() {
-        string path = @"..\00Binary\bootcamp.bin";
+        string path = @"bootcamp.bin";
 
         // Write some binary data to the file
         using (BinaryWriter writer = new BinaryWriter(File.Open(path, FileMode.Create))) {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 20\\00AsyncFile\\00AsyncFile.csproj": {}
+    "C:\\C#\\Bootcamp\\vscode\\Day 20\\00AsyncFile\\00AsyncFile.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 20\\00AsyncFile\\00AsyncFile.csproj": {
+    "C:\\C#\\Bootcamp\\vscode\\Day 20\\00AsyncFile\\00AsyncFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 20\\00AsyncFile\\00AsyncFile.csproj",
+        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 20\\00AsyncFile\\00AsyncFile.csproj",
         "projectName": "00AsyncFile",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\00AsyncFile\\00AsyncFile.csproj",
+        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\00AsyncFile\\00AsyncFile.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\00AsyncFile\\obj\\",
+        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\00AsyncFile\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

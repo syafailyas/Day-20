@@ -1,13 +1,17 @@
 ﻿using System.IO;
 
-class Program {
-    static void Main() {
+class Program
+{
+    static void Main()
+    {
         string path = "bootcamplargefile.txt";
 
         using (FileStream fs = new FileStream(path, FileMode.Open))
-        using (StreamReader reader = new StreamReader(fs)) {
+        using (StreamReader reader = new StreamReader(fs))
+        {
             string line;
-            while ((line = reader.ReadLine()) != null) {
+            while ((line = reader.ReadLine()) != null)
+            {
                 Console.WriteLine(line);
             }
         }

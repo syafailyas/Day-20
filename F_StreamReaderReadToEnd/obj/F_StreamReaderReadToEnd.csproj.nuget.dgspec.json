@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\F_StreamReaderReadToEnd.csproj": {}
+    "c:\\C#\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\F_StreamReaderReadToEnd.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\F_StreamReaderReadToEnd.csproj": {
+    "c:\\C#\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\F_StreamReaderReadToEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\F_StreamReaderReadToEnd.csproj",
+        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\F_StreamReaderReadToEnd.csproj",
         "projectName": "F_StreamReaderReadToEnd",
-        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\F_StreamReaderReadToEnd.csproj",
+        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\F_StreamReaderReadToEnd.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\obj\\",
+        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

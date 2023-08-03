@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 20\\C_FileStreamReader\\C_FileStreamReader.csproj": {}
+    "c:\\C#\\Bootcamp\\vscode\\Day 20\\C_FileStreamReader\\C_FileStreamReader.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Bootcamp\\vscode\\Day 20\\C_FileStreamReader\\C_FileStreamReader.csproj": {
+    "c:\\C#\\Bootcamp\\vscode\\Day 20\\C_FileStreamReader\\C_FileStreamReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 20\\C_FileStreamReader\\C_FileStreamReader.csproj",
+        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 20\\C_FileStreamReader\\C_FileStreamReader.csproj",
         "projectName": "C_FileStreamReader",
-        "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\C_FileStreamReader\\C_FileStreamReader.csproj",
+        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\C_FileStreamReader\\C_FileStreamReader.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\C_FileStreamReader\\obj\\",
+        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\C_FileStreamReader\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

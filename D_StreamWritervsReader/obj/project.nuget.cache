@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZSzjGInA0bEirsjEBUg5exZJV9GfOkjHFP1dKcVMFsPC9FvaRRQ69YpLntExj3wN2zvWmq4S2g1sL794E5HN7A==",
+  "dgSpecHash": "n+qdfomCcYzerfYVzmKxOTj+wJRj8mLF2abPKL6UfzolivbzaccO6cybl21fCo6cRCOrfjrQ7ZlTJElrT3CXGQ==",
   "success": true,
-  "projectFilePath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\D_StreamWritervsReader\\D_StreamWritervsReader.csproj",
+  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\D_StreamWritervsReader\\D_StreamWritervsReader.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

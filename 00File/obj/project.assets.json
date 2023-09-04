@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 20\\00File\\00File.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\00File\\00File.csproj",
       "projectName": "00File",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\00File\\00File.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\00File\\00File.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\00File\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\00File\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

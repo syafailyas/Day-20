@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 20\\E_StreamWriterUsing\\E_StreamWriterUsing.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\E_StreamWriterUsing\\E_StreamWriterUsing.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 20\\E_StreamWriterUsing\\E_StreamWriterUsing.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\E_StreamWriterUsing\\E_StreamWriterUsing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 20\\E_StreamWriterUsing\\E_StreamWriterUsing.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\E_StreamWriterUsing\\E_StreamWriterUsing.csproj",
         "projectName": "E_StreamWriterUsing",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\E_StreamWriterUsing\\E_StreamWriterUsing.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\E_StreamWriterUsing\\E_StreamWriterUsing.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\E_StreamWriterUsing\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\E_StreamWriterUsing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

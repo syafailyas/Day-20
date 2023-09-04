@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\F_StreamReaderReadToEnd.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\F_StreamReaderReadToEnd.csproj",
       "projectName": "F_StreamReaderReadToEnd",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\F_StreamReaderReadToEnd.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\F_StreamReaderReadToEnd.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

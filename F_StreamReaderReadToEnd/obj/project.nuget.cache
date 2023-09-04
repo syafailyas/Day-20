@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lBFm6QUDUTxOtQVGN04S6dh3vE+OxC6R/ePwL3WXWMqG4m8eCCNhEsaGn9up7Zz4sR2uffjaEL0TfDj64kT3uQ==",
+  "dgSpecHash": "Vhsa2dNEpcJxA3i5b7KGMnVlsbenH42Dif4L3GOLxA1sOgH30ZKwnlOe2d3StfcIsiLGonAWIQAArd9Xs5Kvaw==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\F_StreamReaderReadToEnd.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\F_StreamReaderReadToEnd\\F_StreamReaderReadToEnd.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

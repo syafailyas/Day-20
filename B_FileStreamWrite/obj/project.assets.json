@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 20\\B_FileStreamWrite\\B_FileStreamWrite.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\B_FileStreamWrite\\B_FileStreamWrite.csproj",
       "projectName": "B_FileStreamWrite",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\B_FileStreamWrite\\B_FileStreamWrite.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\B_FileStreamWrite\\B_FileStreamWrite.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\B_FileStreamWrite\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\B_FileStreamWrite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 20\\G_FileInfo\\G_FileInfo.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\G_FileInfo\\G_FileInfo.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 20\\G_FileInfo\\G_FileInfo.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\G_FileInfo\\G_FileInfo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 20\\G_FileInfo\\G_FileInfo.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\G_FileInfo\\G_FileInfo.csproj",
         "projectName": "G_FileInfo",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\G_FileInfo\\G_FileInfo.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\G_FileInfo\\G_FileInfo.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\G_FileInfo\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\G_FileInfo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

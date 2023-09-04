@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XAyAzeHaJy60v9fwz7PvOMiFFqw+qK9jLIB2Bp1+jWWF/ywQR6MR0PoFnp86YdzzSQjw7YhkiY085y7RNFFiAw==",
+  "dgSpecHash": "38sGMP3teDyaZvzvGeKuTuoVp/SzGuSHTZRLkx4DPpwOR5kx1+ylB5PaHUmd47H6dksHBuPWhUjarHrvpRv0PQ==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\E_StreamWriterUsing\\E_StreamWriterUsing.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\E_StreamWriterUsing\\E_StreamWriterUsing.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

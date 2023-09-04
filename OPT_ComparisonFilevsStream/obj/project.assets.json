@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day 20\\OPT_ComparisonFilevsStream\\OPT_ComparisonFilevsStream.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\OPT_ComparisonFilevsStream\\OPT_ComparisonFilevsStream.csproj",
       "projectName": "OPT_ComparisonFilevsStream",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\OPT_ComparisonFilevsStream\\OPT_ComparisonFilevsStream.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\OPT_ComparisonFilevsStream\\OPT_ComparisonFilevsStream.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day 20\\OPT_ComparisonFilevsStream\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\OPT_ComparisonFilevsStream\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

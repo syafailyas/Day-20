@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 20\\E_StreamWriter\\E_StreamWriter.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\E_StreamWriter\\E_StreamWriter.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 20\\E_StreamWriter\\E_StreamWriter.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\E_StreamWriter\\E_StreamWriter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 20\\E_StreamWriter\\E_StreamWriter.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\E_StreamWriter\\E_StreamWriter.csproj",
         "projectName": "E_StreamWriter",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\E_StreamWriter\\E_StreamWriter.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\E_StreamWriter\\E_StreamWriter.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\E_StreamWriter\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\E_StreamWriter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

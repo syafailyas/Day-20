@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7xiqnwzcNuNsTIFnFNYkMal+3lS3Bh6uInzi5Ur0l92scjUuBSglOOOq7Ej/1pcD8EPcSFifrwXczi1g5q4yNA==",
+  "dgSpecHash": "mtcgBVdKBTh3Emx41vp6uKzK/FRdFR1RD2rmObfNyC+SsallvElwzPtxcRq7sruyf92OMrQsMdH3id7f+mA6wQ==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\G_FileInfo_Delete\\G_FileInfo_Delete.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\G_FileInfo_Delete\\G_FileInfo_Delete.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

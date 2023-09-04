@@ -4,7 +4,7 @@ using System.Text;
 class Program {
     static void Main() {
         string path = "bootcamp.txt";
-
+        //Write
         using (FileStream fs = new FileStream(path, FileMode.Create)) {
 
             byte[] data = Encoding.UTF8.GetBytes("Hello, FileStream!"); 

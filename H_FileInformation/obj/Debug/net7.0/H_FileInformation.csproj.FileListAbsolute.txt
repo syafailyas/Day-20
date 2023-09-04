@@ -1,0 +1,15 @@
+c:\CSharp\Bootcamp\vscode\Day 20\H_FileInformation\bin\Debug\net7.0\H_FileInformation.exe
+c:\CSharp\Bootcamp\vscode\Day 20\H_FileInformation\bin\Debug\net7.0\H_FileInformation.deps.json
+c:\CSharp\Bootcamp\vscode\Day 20\H_FileInformation\bin\Debug\net7.0\H_FileInformation.runtimeconfig.json
+c:\CSharp\Bootcamp\vscode\Day 20\H_FileInformation\bin\Debug\net7.0\H_FileInformation.dll
+c:\CSharp\Bootcamp\vscode\Day 20\H_FileInformation\bin\Debug\net7.0\H_FileInformation.pdb
+c:\CSharp\Bootcamp\vscode\Day 20\H_FileInformation\obj\Debug\net7.0\H_FileInformation.csproj.AssemblyReference.cache
+c:\CSharp\Bootcamp\vscode\Day 20\H_FileInformation\obj\Debug\net7.0\H_FileInformation.GeneratedMSBuildEditorConfig.editorconfig
+c:\CSharp\Bootcamp\vscode\Day 20\H_FileInformation\obj\Debug\net7.0\H_FileInformation.AssemblyInfoInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 20\H_FileInformation\obj\Debug\net7.0\H_FileInformation.AssemblyInfo.cs
+c:\CSharp\Bootcamp\vscode\Day 20\H_FileInformation\obj\Debug\net7.0\H_FileInformation.csproj.CoreCompileInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 20\H_FileInformation\obj\Debug\net7.0\H_FileInformation.dll
+c:\CSharp\Bootcamp\vscode\Day 20\H_FileInformation\obj\Debug\net7.0\refint\H_FileInformation.dll
+c:\CSharp\Bootcamp\vscode\Day 20\H_FileInformation\obj\Debug\net7.0\H_FileInformation.pdb
+c:\CSharp\Bootcamp\vscode\Day 20\H_FileInformation\obj\Debug\net7.0\H_FileInformation.genruntimeconfig.cache
+c:\CSharp\Bootcamp\vscode\Day 20\H_FileInformation\obj\Debug\net7.0\ref\H_FileInformation.dll

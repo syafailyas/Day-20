@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 20\\A_FileStream\\A_FileStream.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\A_FileStream\\A_FileStream.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day 20\\A_FileStream\\A_FileStream.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\A_FileStream\\A_FileStream.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day 20\\A_FileStream\\A_FileStream.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\A_FileStream\\A_FileStream.csproj",
         "projectName": "A_FileStream",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\A_FileStream\\A_FileStream.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\A_FileStream\\A_FileStream.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day 20\\A_FileStream\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\A_FileStream\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

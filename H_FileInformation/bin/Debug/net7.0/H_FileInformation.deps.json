@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "H_FileInformation/1.0.0": {
+        "runtime": {
+          "H_FileInformation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "H_FileInformation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

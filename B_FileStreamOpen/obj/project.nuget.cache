@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oEe+OwCphkNRzj8lb50nRKIf6tbHCe6XuHc8DFAoXmZSNjlvJBD0vXBzGA4vxMlQN/VuQkHjT7Dz7lT3/KmGMA==",
+  "dgSpecHash": "HYIm+5L3NLRTNvHpvzJBiNBOQzkAloLJkVBSzQx5QAVJ0Mq6S0LpwTtXSMG4o/Tm/XOj5Wqn4zMusjYjUuHcEA==",
   "success": true,
-  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\B_FileStreamOpen\\B_FileStreamOpen.csproj",
+  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\B_FileStreamOpen\\B_FileStreamOpen.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

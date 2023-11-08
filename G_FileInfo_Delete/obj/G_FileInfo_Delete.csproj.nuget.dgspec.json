@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\G_FileInfo_Delete\\G_FileInfo_Delete.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\G_FileInfo_Delete\\G_FileInfo_Delete.csproj": {}
   },
   "projects": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\G_FileInfo_Delete\\G_FileInfo_Delete.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\G_FileInfo_Delete\\G_FileInfo_Delete.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\G_FileInfo_Delete\\G_FileInfo_Delete.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\G_FileInfo_Delete\\G_FileInfo_Delete.csproj",
         "projectName": "G_FileInfo_Delete",
-        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\G_FileInfo_Delete\\G_FileInfo_Delete.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\G_FileInfo_Delete\\G_FileInfo_Delete.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\G_FileInfo_Delete\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\G_FileInfo_Delete\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

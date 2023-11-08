@@ -1,0 +1,15 @@
+c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\bin\Debug\net7.0\OPT_ComparisonFilevsStream.exe
+c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\bin\Debug\net7.0\OPT_ComparisonFilevsStream.deps.json
+c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\bin\Debug\net7.0\OPT_ComparisonFilevsStream.runtimeconfig.json
+c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\bin\Debug\net7.0\OPT_ComparisonFilevsStream.dll
+c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\bin\Debug\net7.0\OPT_ComparisonFilevsStream.pdb
+c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.csproj.AssemblyReference.cache
+c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.GeneratedMSBuildEditorConfig.editorconfig
+c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.AssemblyInfoInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.AssemblyInfo.cs
+c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.csproj.CoreCompileInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.dll
+c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\refint\OPT_ComparisonFilevsStream.dll
+c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.pdb
+c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.genruntimeconfig.cache
+c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\ref\OPT_ComparisonFilevsStream.dll

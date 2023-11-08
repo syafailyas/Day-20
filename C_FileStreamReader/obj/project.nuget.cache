@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6e9UtpXY3h1qUJH+NaWhnykDznxXYm8WGMdwFeNxqrPEJbPaG4JH4GNUvwMqet3tl695yrmCHfBF3OtFXKiiuw==",
+  "dgSpecHash": "Fr2D6sBi9Qo0WakuxJUvekWsz6M3NmktCP2Sc8ujbSJ+wI01wwTk99TEWRu1YqwpuMmTuOkAR6g0ZDvPzLTd8w==",
   "success": true,
-  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\C_FileStreamReader\\C_FileStreamReader.csproj",
+  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\C_FileStreamReader\\C_FileStreamReader.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\B_FileStreamWrite\\B_FileStreamWrite.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\B_FileStreamWrite\\B_FileStreamWrite.csproj": {}
   },
   "projects": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\B_FileStreamWrite\\B_FileStreamWrite.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\B_FileStreamWrite\\B_FileStreamWrite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\B_FileStreamWrite\\B_FileStreamWrite.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\B_FileStreamWrite\\B_FileStreamWrite.csproj",
         "projectName": "B_FileStreamWrite",
-        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\B_FileStreamWrite\\B_FileStreamWrite.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\B_FileStreamWrite\\B_FileStreamWrite.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\B_FileStreamWrite\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\B_FileStreamWrite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

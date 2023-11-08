@@ -1,0 +1,15 @@
+c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\bin\Debug\net7.0\D_StreamWritervsReader.exe
+c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\bin\Debug\net7.0\D_StreamWritervsReader.deps.json
+c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\bin\Debug\net7.0\D_StreamWritervsReader.runtimeconfig.json
+c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\bin\Debug\net7.0\D_StreamWritervsReader.dll
+c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\bin\Debug\net7.0\D_StreamWritervsReader.pdb
+c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.csproj.AssemblyReference.cache
+c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.GeneratedMSBuildEditorConfig.editorconfig
+c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.AssemblyInfoInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.AssemblyInfo.cs
+c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.csproj.CoreCompileInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.dll
+c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\obj\Debug\net7.0\refint\D_StreamWritervsReader.dll
+c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.pdb
+c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.genruntimeconfig.cache
+c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\obj\Debug\net7.0\ref\D_StreamWritervsReader.dll

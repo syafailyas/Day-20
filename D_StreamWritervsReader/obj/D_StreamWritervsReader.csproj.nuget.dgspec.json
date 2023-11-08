@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\D_StreamWritervsReader\\D_StreamWritervsReader.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\D_StreamWritervsReader\\D_StreamWritervsReader.csproj": {}
   },
   "projects": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\D_StreamWritervsReader\\D_StreamWritervsReader.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\D_StreamWritervsReader\\D_StreamWritervsReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\D_StreamWritervsReader\\D_StreamWritervsReader.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\D_StreamWritervsReader\\D_StreamWritervsReader.csproj",
         "projectName": "D_StreamWritervsReader",
-        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\D_StreamWritervsReader\\D_StreamWritervsReader.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\D_StreamWritervsReader\\D_StreamWritervsReader.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\D_StreamWritervsReader\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\D_StreamWritervsReader\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

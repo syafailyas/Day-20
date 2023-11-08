@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\00Binary\\00Binary.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\00Binary\\00Binary.csproj": {}
   },
   "projects": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\00Binary\\00Binary.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\00Binary\\00Binary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\00Binary\\00Binary.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\00Binary\\00Binary.csproj",
         "projectName": "00Binary",
-        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\00Binary\\00Binary.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\00Binary\\00Binary.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\00Binary\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 20\\00Binary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

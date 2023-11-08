@@ -6,13 +6,13 @@ namespace FileHandlinDemo
 		static void Main(string[] args)
 		{
 			string FilePath = @".\MyFile.txt";
-
-			using (FileStream fileStream = new FileStream(FilePath, FileMode.Open, FileAccess.Write))
+			using (FileStream fileStream = new FileStream(FilePath, 
+			FileMode.Create, FileAccess.Write, FileShare.None))
 			{
-				fileStream.Close();
 				Console.Write("File has been opened and the Path is MyFile.txt");
+				
 			}
-			Console.ReadKey();
+			
 		}
 	}
 }

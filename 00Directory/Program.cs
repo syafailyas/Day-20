@@ -2,7 +2,7 @@
 
 class Program {
 	static void Main() {
-		string path = @"C:\Users\Kinara\Documents\Bootcamp";
+		string path = @"C:\Users\Kinara\Documents\Bootcamp\";
 
 		Directory.CreateDirectory(path);
 

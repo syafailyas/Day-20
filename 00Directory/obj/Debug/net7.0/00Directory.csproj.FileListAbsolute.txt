@@ -1,0 +1,15 @@
+c:\CSharp\Bootcamp\vscode\Day 20\00Directory\bin\Debug\net7.0\00Directory.exe
+c:\CSharp\Bootcamp\vscode\Day 20\00Directory\bin\Debug\net7.0\00Directory.deps.json
+c:\CSharp\Bootcamp\vscode\Day 20\00Directory\bin\Debug\net7.0\00Directory.runtimeconfig.json
+c:\CSharp\Bootcamp\vscode\Day 20\00Directory\bin\Debug\net7.0\00Directory.dll
+c:\CSharp\Bootcamp\vscode\Day 20\00Directory\bin\Debug\net7.0\00Directory.pdb
+c:\CSharp\Bootcamp\vscode\Day 20\00Directory\obj\Debug\net7.0\00Directory.csproj.AssemblyReference.cache
+c:\CSharp\Bootcamp\vscode\Day 20\00Directory\obj\Debug\net7.0\00Directory.GeneratedMSBuildEditorConfig.editorconfig
+c:\CSharp\Bootcamp\vscode\Day 20\00Directory\obj\Debug\net7.0\00Directory.AssemblyInfoInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 20\00Directory\obj\Debug\net7.0\00Directory.AssemblyInfo.cs
+c:\CSharp\Bootcamp\vscode\Day 20\00Directory\obj\Debug\net7.0\00Directory.csproj.CoreCompileInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 20\00Directory\obj\Debug\net7.0\00Directory.dll
+c:\CSharp\Bootcamp\vscode\Day 20\00Directory\obj\Debug\net7.0\refint\00Directory.dll
+c:\CSharp\Bootcamp\vscode\Day 20\00Directory\obj\Debug\net7.0\00Directory.pdb
+c:\CSharp\Bootcamp\vscode\Day 20\00Directory\obj\Debug\net7.0\00Directory.genruntimeconfig.cache
+c:\CSharp\Bootcamp\vscode\Day 20\00Directory\obj\Debug\net7.0\ref\00Directory.dll

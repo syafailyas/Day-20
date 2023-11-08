@@ -19,7 +19,7 @@ class Program {
 
         // Move
         if (File.Exists(sourcePath)) {
-            string newPath = Path.Combine(Path.GetDirectoryName(sourcePath), "newfile.txt");
+            string newPath = Path.Combine(Path.GetDirectoryName(sourcePath) ?? string.Empty, "newfile.txt");
             File.Move(sourcePath, newPath);
             Console.WriteLine("File moved.");
         }

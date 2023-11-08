@@ -9,9 +9,7 @@ namespace FileInfoDemo
             string path = @"MyTestFile1.txt";
             FileInfo fileInfo = new FileInfo(path);
             fileInfo.Create();
-            {
-                Console.WriteLine("File has been created");
-            }
+            Console.WriteLine("File has been created");
             Console.ReadKey();
         }
     }

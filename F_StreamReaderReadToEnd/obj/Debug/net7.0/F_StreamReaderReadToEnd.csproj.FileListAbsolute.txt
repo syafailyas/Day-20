@@ -1,0 +1,14 @@
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\F_StreamReaderReadToEnd\bin\Debug\net7.0\F_StreamReaderReadToEnd.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\F_StreamReaderReadToEnd\bin\Debug\net7.0\F_StreamReaderReadToEnd.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\F_StreamReaderReadToEnd\bin\Debug\net7.0\F_StreamReaderReadToEnd.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\F_StreamReaderReadToEnd\bin\Debug\net7.0\F_StreamReaderReadToEnd.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\F_StreamReaderReadToEnd\bin\Debug\net7.0\F_StreamReaderReadToEnd.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\F_StreamReaderReadToEnd\obj\Debug\net7.0\F_StreamReaderReadToEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\F_StreamReaderReadToEnd\obj\Debug\net7.0\F_StreamReaderReadToEnd.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\F_StreamReaderReadToEnd\obj\Debug\net7.0\F_StreamReaderReadToEnd.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\F_StreamReaderReadToEnd\obj\Debug\net7.0\F_StreamReaderReadToEnd.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\F_StreamReaderReadToEnd\obj\Debug\net7.0\F_StreamReaderReadToEnd.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\F_StreamReaderReadToEnd\obj\Debug\net7.0\refint\F_StreamReaderReadToEnd.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\F_StreamReaderReadToEnd\obj\Debug\net7.0\F_StreamReaderReadToEnd.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\F_StreamReaderReadToEnd\obj\Debug\net7.0\F_StreamReaderReadToEnd.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\F_StreamReaderReadToEnd\obj\Debug\net7.0\ref\F_StreamReaderReadToEnd.dll

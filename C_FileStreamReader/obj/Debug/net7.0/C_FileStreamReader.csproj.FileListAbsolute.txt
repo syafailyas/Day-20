@@ -1,0 +1,14 @@
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\C_FileStreamReader\bin\Debug\net7.0\C_FileStreamReader.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\C_FileStreamReader\bin\Debug\net7.0\C_FileStreamReader.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\C_FileStreamReader\bin\Debug\net7.0\C_FileStreamReader.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\C_FileStreamReader\bin\Debug\net7.0\C_FileStreamReader.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\C_FileStreamReader\bin\Debug\net7.0\C_FileStreamReader.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\C_FileStreamReader\obj\Debug\net7.0\C_FileStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\C_FileStreamReader\obj\Debug\net7.0\C_FileStreamReader.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\C_FileStreamReader\obj\Debug\net7.0\C_FileStreamReader.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\C_FileStreamReader\obj\Debug\net7.0\C_FileStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\C_FileStreamReader\obj\Debug\net7.0\C_FileStreamReader.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\C_FileStreamReader\obj\Debug\net7.0\refint\C_FileStreamReader.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\C_FileStreamReader\obj\Debug\net7.0\C_FileStreamReader.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\C_FileStreamReader\obj\Debug\net7.0\C_FileStreamReader.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\C_FileStreamReader\obj\Debug\net7.0\ref\C_FileStreamReader.dll

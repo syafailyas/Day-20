@@ -1,0 +1,14 @@
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo\bin\Debug\net7.0\G_FileInfo.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo\bin\Debug\net7.0\G_FileInfo.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo\bin\Debug\net7.0\G_FileInfo.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo\bin\Debug\net7.0\G_FileInfo.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo\bin\Debug\net7.0\G_FileInfo.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo\obj\Debug\net7.0\G_FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo\obj\Debug\net7.0\G_FileInfo.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo\obj\Debug\net7.0\G_FileInfo.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo\obj\Debug\net7.0\G_FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo\obj\Debug\net7.0\G_FileInfo.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo\obj\Debug\net7.0\refint\G_FileInfo.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo\obj\Debug\net7.0\G_FileInfo.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo\obj\Debug\net7.0\G_FileInfo.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo\obj\Debug\net7.0\ref\G_FileInfo.dll

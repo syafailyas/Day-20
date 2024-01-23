@@ -1,0 +1,14 @@
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\E_StreamWriterUsing\bin\Debug\net7.0\E_StreamWriterUsing.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\E_StreamWriterUsing\bin\Debug\net7.0\E_StreamWriterUsing.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\E_StreamWriterUsing\bin\Debug\net7.0\E_StreamWriterUsing.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\E_StreamWriterUsing\bin\Debug\net7.0\E_StreamWriterUsing.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\E_StreamWriterUsing\bin\Debug\net7.0\E_StreamWriterUsing.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\E_StreamWriterUsing\obj\Debug\net7.0\E_StreamWriterUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\E_StreamWriterUsing\obj\Debug\net7.0\E_StreamWriterUsing.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\E_StreamWriterUsing\obj\Debug\net7.0\E_StreamWriterUsing.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\E_StreamWriterUsing\obj\Debug\net7.0\E_StreamWriterUsing.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\E_StreamWriterUsing\obj\Debug\net7.0\E_StreamWriterUsing.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\E_StreamWriterUsing\obj\Debug\net7.0\refint\E_StreamWriterUsing.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\E_StreamWriterUsing\obj\Debug\net7.0\E_StreamWriterUsing.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\E_StreamWriterUsing\obj\Debug\net7.0\E_StreamWriterUsing.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\E_StreamWriterUsing\obj\Debug\net7.0\ref\E_StreamWriterUsing.dll

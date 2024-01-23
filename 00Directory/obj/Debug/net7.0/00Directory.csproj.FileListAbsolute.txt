@@ -13,3 +13,17 @@ c:\CSharp\Bootcamp\vscode\Day 20\00Directory\obj\Debug\net7.0\refint\00Directory
 c:\CSharp\Bootcamp\vscode\Day 20\00Directory\obj\Debug\net7.0\00Directory.pdb
 c:\CSharp\Bootcamp\vscode\Day 20\00Directory\obj\Debug\net7.0\00Directory.genruntimeconfig.cache
 c:\CSharp\Bootcamp\vscode\Day 20\00Directory\obj\Debug\net7.0\ref\00Directory.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Directory\bin\Debug\net7.0\00Directory.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\00Directory\bin\Debug\net7.0\00Directory.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\00Directory\bin\Debug\net7.0\00Directory.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Directory\bin\Debug\net7.0\00Directory.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Directory\bin\Debug\net7.0\00Directory.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Directory\obj\Debug\net7.0\00Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Directory\obj\Debug\net7.0\00Directory.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Directory\obj\Debug\net7.0\00Directory.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Directory\obj\Debug\net7.0\00Directory.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Directory\obj\Debug\net7.0\00Directory.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Directory\obj\Debug\net7.0\refint\00Directory.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Directory\obj\Debug\net7.0\00Directory.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\00Directory\obj\Debug\net7.0\00Directory.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\00Directory\obj\Debug\net7.0\ref\00Directory.dll

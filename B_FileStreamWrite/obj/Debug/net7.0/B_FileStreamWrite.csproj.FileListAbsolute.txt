@@ -13,3 +13,17 @@ c:\CSharp\Bootcamp\vscode\Day 20\B_FileStreamWrite\obj\Debug\net7.0\refint\B_Fil
 c:\CSharp\Bootcamp\vscode\Day 20\B_FileStreamWrite\obj\Debug\net7.0\B_FileStreamWrite.pdb
 c:\CSharp\Bootcamp\vscode\Day 20\B_FileStreamWrite\obj\Debug\net7.0\B_FileStreamWrite.genruntimeconfig.cache
 c:\CSharp\Bootcamp\vscode\Day 20\B_FileStreamWrite\obj\Debug\net7.0\ref\B_FileStreamWrite.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\B_FileStreamWrite\bin\Debug\net7.0\B_FileStreamWrite.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\B_FileStreamWrite\bin\Debug\net7.0\B_FileStreamWrite.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\B_FileStreamWrite\bin\Debug\net7.0\B_FileStreamWrite.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\B_FileStreamWrite\bin\Debug\net7.0\B_FileStreamWrite.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\B_FileStreamWrite\bin\Debug\net7.0\B_FileStreamWrite.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\B_FileStreamWrite\obj\Debug\net7.0\B_FileStreamWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\B_FileStreamWrite\obj\Debug\net7.0\B_FileStreamWrite.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\B_FileStreamWrite\obj\Debug\net7.0\B_FileStreamWrite.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\B_FileStreamWrite\obj\Debug\net7.0\B_FileStreamWrite.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\B_FileStreamWrite\obj\Debug\net7.0\B_FileStreamWrite.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\B_FileStreamWrite\obj\Debug\net7.0\refint\B_FileStreamWrite.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\B_FileStreamWrite\obj\Debug\net7.0\B_FileStreamWrite.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\B_FileStreamWrite\obj\Debug\net7.0\B_FileStreamWrite.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\B_FileStreamWrite\obj\Debug\net7.0\ref\B_FileStreamWrite.dll

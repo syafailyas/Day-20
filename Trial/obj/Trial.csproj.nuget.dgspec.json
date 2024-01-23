@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\Trial\\Trial.csproj": {}
+    "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-20\\Trial\\Trial.csproj": {}
   },
   "projects": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\Trial\\Trial.csproj": {
+    "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-20\\Trial\\Trial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\Trial\\Trial.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-20\\Trial\\Trial.csproj",
         "projectName": "Trial",
-        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\Trial\\Trial.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 20\\Trial\\obj\\",
+        "projectPath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-20\\Trial\\Trial.csproj",
+        "packagesPath": "C:\\Users\\Batch 8\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day-20\\Trial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 8\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,14 @@
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Binary\bin\Debug\net7.0\00Binary.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\00Binary\bin\Debug\net7.0\00Binary.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\00Binary\bin\Debug\net7.0\00Binary.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Binary\bin\Debug\net7.0\00Binary.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Binary\bin\Debug\net7.0\00Binary.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Binary\obj\Debug\net7.0\00Binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Binary\obj\Debug\net7.0\00Binary.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Binary\obj\Debug\net7.0\00Binary.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Binary\obj\Debug\net7.0\00Binary.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Binary\obj\Debug\net7.0\00Binary.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Binary\obj\Debug\net7.0\refint\00Binary.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00Binary\obj\Debug\net7.0\00Binary.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\00Binary\obj\Debug\net7.0\00Binary.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\00Binary\obj\Debug\net7.0\ref\00Binary.dll

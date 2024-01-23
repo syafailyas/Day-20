@@ -13,3 +13,17 @@ c:\CSharp\Bootcamp\vscode\Day 20\Trial\obj\Debug\net7.0\refint\Trial.dll
 c:\CSharp\Bootcamp\vscode\Day 20\Trial\obj\Debug\net7.0\Trial.pdb
 c:\CSharp\Bootcamp\vscode\Day 20\Trial\obj\Debug\net7.0\Trial.genruntimeconfig.cache
 c:\CSharp\Bootcamp\vscode\Day 20\Trial\obj\Debug\net7.0\ref\Trial.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\Trial\bin\Debug\net7.0\Trial.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\Trial\bin\Debug\net7.0\Trial.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\Trial\bin\Debug\net7.0\Trial.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\Trial\bin\Debug\net7.0\Trial.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\Trial\bin\Debug\net7.0\Trial.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\Trial\obj\Debug\net7.0\Trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\Trial\obj\Debug\net7.0\Trial.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\Trial\obj\Debug\net7.0\Trial.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\Trial\obj\Debug\net7.0\Trial.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\Trial\obj\Debug\net7.0\Trial.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\Trial\obj\Debug\net7.0\refint\Trial.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\Trial\obj\Debug\net7.0\Trial.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\Trial\obj\Debug\net7.0\Trial.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\Trial\obj\Debug\net7.0\ref\Trial.dll

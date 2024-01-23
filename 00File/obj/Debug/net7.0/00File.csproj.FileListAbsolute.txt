@@ -1,0 +1,14 @@
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00File\bin\Debug\net7.0\00File.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\00File\bin\Debug\net7.0\00File.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\00File\bin\Debug\net7.0\00File.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00File\bin\Debug\net7.0\00File.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00File\bin\Debug\net7.0\00File.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00File\obj\Debug\net7.0\00File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00File\obj\Debug\net7.0\00File.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00File\obj\Debug\net7.0\00File.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00File\obj\Debug\net7.0\00File.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00File\obj\Debug\net7.0\00File.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00File\obj\Debug\net7.0\refint\00File.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00File\obj\Debug\net7.0\00File.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\00File\obj\Debug\net7.0\00File.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\00File\obj\Debug\net7.0\ref\00File.dll

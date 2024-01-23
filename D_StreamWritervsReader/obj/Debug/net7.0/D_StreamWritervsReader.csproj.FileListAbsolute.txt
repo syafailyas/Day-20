@@ -13,3 +13,17 @@ c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\obj\Debug\net7.0\refint\
 c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.pdb
 c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.genruntimeconfig.cache
 c:\CSharp\Bootcamp\vscode\Day 20\D_StreamWritervsReader\obj\Debug\net7.0\ref\D_StreamWritervsReader.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\D_StreamWritervsReader\bin\Debug\net7.0\D_StreamWritervsReader.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\D_StreamWritervsReader\bin\Debug\net7.0\D_StreamWritervsReader.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\D_StreamWritervsReader\bin\Debug\net7.0\D_StreamWritervsReader.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\D_StreamWritervsReader\bin\Debug\net7.0\D_StreamWritervsReader.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\D_StreamWritervsReader\bin\Debug\net7.0\D_StreamWritervsReader.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\D_StreamWritervsReader\obj\Debug\net7.0\refint\D_StreamWritervsReader.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\D_StreamWritervsReader\obj\Debug\net7.0\D_StreamWritervsReader.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\D_StreamWritervsReader\obj\Debug\net7.0\ref\D_StreamWritervsReader.dll

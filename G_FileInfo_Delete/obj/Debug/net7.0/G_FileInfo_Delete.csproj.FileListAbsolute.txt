@@ -1,0 +1,14 @@
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo_Delete\bin\Debug\net7.0\G_FileInfo_Delete.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo_Delete\bin\Debug\net7.0\G_FileInfo_Delete.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo_Delete\bin\Debug\net7.0\G_FileInfo_Delete.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo_Delete\bin\Debug\net7.0\G_FileInfo_Delete.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo_Delete\bin\Debug\net7.0\G_FileInfo_Delete.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo_Delete\obj\Debug\net7.0\G_FileInfo_Delete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo_Delete\obj\Debug\net7.0\G_FileInfo_Delete.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo_Delete\obj\Debug\net7.0\G_FileInfo_Delete.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo_Delete\obj\Debug\net7.0\G_FileInfo_Delete.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo_Delete\obj\Debug\net7.0\G_FileInfo_Delete.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo_Delete\obj\Debug\net7.0\refint\G_FileInfo_Delete.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo_Delete\obj\Debug\net7.0\G_FileInfo_Delete.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo_Delete\obj\Debug\net7.0\G_FileInfo_Delete.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\G_FileInfo_Delete\obj\Debug\net7.0\ref\G_FileInfo_Delete.dll

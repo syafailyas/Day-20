@@ -1,34 +1,33 @@
 ﻿using System;
 using System.IO;
+
 namespace FileHandlinDemo
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            
-            string filePath = "MyFile.txt";
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			string filePath = "MyFile.txt";
 
-           
-            StreamReader streamReader = new StreamReader(filePath);
+			StreamReader streamReader = new StreamReader(filePath);
+			Console.WriteLine("Content of the File");
 
-            Console.WriteLine("Content of the File");
+			streamReader.BaseStream.Seek(0, SeekOrigin.Begin);
 
-            streamReader.BaseStream.Seek(0, SeekOrigin.Begin);
+			string strData = streamReader.ReadLine();
 
-            
-            string strData = streamReader.ReadLine();
+			while (strData != null)
+			{
+				Console.WriteLine(strData);
 
-           
-            while (strData != null)
-            {
-                Console.WriteLine(strData);
-                strData = streamReader.ReadLine();
-            }
-            Console.ReadLine();
+				strData = streamReader.ReadLine();
+			}
 
-            streamReader.Close();
-            Console.ReadKey();
-        }
-    }
+			Console.ReadLine();
+
+			streamReader.Close();
+
+			Console.ReadKey();
+		}
+	}
 }

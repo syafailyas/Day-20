@@ -13,3 +13,17 @@ c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\ref
 c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.pdb
 c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.genruntimeconfig.cache
 c:\CSharp\Bootcamp\vscode\Day 20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\ref\OPT_ComparisonFilevsStream.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\OPT_ComparisonFilevsStream\bin\Debug\net7.0\OPT_ComparisonFilevsStream.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\OPT_ComparisonFilevsStream\bin\Debug\net7.0\OPT_ComparisonFilevsStream.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\OPT_ComparisonFilevsStream\bin\Debug\net7.0\OPT_ComparisonFilevsStream.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\OPT_ComparisonFilevsStream\bin\Debug\net7.0\OPT_ComparisonFilevsStream.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\OPT_ComparisonFilevsStream\bin\Debug\net7.0\OPT_ComparisonFilevsStream.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\refint\OPT_ComparisonFilevsStream.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\OPT_ComparisonFilevsStream.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\OPT_ComparisonFilevsStream\obj\Debug\net7.0\ref\OPT_ComparisonFilevsStream.dll

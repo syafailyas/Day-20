@@ -1,0 +1,14 @@
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00AsyncFile\bin\Debug\net7.0\00AsyncFile.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\00AsyncFile\bin\Debug\net7.0\00AsyncFile.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\00AsyncFile\bin\Debug\net7.0\00AsyncFile.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00AsyncFile\bin\Debug\net7.0\00AsyncFile.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00AsyncFile\bin\Debug\net7.0\00AsyncFile.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00AsyncFile\obj\Debug\net7.0\00AsyncFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00AsyncFile\obj\Debug\net7.0\00AsyncFile.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00AsyncFile\obj\Debug\net7.0\00AsyncFile.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00AsyncFile\obj\Debug\net7.0\00AsyncFile.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00AsyncFile\obj\Debug\net7.0\00AsyncFile.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00AsyncFile\obj\Debug\net7.0\refint\00AsyncFile.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day-20\00AsyncFile\obj\Debug\net7.0\00AsyncFile.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\00AsyncFile\obj\Debug\net7.0\00AsyncFile.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day-20\00AsyncFile\obj\Debug\net7.0\ref\00AsyncFile.dll
